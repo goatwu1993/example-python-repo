@@ -38,3 +38,9 @@ Tools for writing longer commit message
 - (pip) commitizen
 - (VS Code) knisterpeter.vscode-commitizen
 - (VS Code) kvivaxy.vscode-conventional-commits
+
+### Setup GitHub Repo
+
+- Only allow rebase
+- Auto delete merged branch
+- Another feature
