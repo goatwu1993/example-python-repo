@@ -1,8 +1,9 @@
 [tool]
 [tool.commitizen]
 name = "cz_conventional_commits"
-version = "0.3.0"
+version = "0.1.0"
 tag_format = "$version"
+changelog_file = "CHANGELOG.md"
 update_changelog_on_bump = true
 version_files = [
     "pyproject.toml:version"
