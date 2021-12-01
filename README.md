@@ -9,6 +9,14 @@ This repo is the source code of example python repo
 
 ## For developers
 
+### How to use
+
+- create a repo with this template
+- clone the repo
+- install ci tools `make install-ci`
+- add your source code
+- bump init version `make bump-and-push-version`
+
 ### Code style
 
 Please install git hooks.
@@ -17,6 +25,8 @@ Please install git hooks.
 # install ci tools for local
 make install-ci
 # bump version
+make bump
+# bump version and push
 make bump-and-push-version
 # Others
 make help
@@ -43,4 +53,3 @@ Tools for writing longer commit message
 
 - Only allow rebase
 - Auto delete merged branch
-- Another feature
