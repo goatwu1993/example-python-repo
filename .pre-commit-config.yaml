@@ -49,3 +49,8 @@ repos:
         stages:
           - commit-msg
     rev: v2.20.0
+
+  - repo: https://github.com/nvuillam/npm-groovy-lint
+    rev: v9.1.0
+    hooks:
+      - id: format-npm-groovy-lint
