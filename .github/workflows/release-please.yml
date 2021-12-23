@@ -9,5 +9,5 @@ jobs:
     steps:
       - uses: goatwu1993/release-please-action@7d13dccf71e9527d4b4c674f527ba6e4016dfab3
         with:
-          release-type: simple
+          release-type: java
           token: ${{ secrets.GITHUB_TOKEN }}

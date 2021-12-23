@@ -1,7 +1,7 @@
 {
   "packages": {
     ".": {
-      "releaseType": "simple",
+      "releaseType": "java",
       "draft": false,
       "bumpMinorPreMajor": false,
       "bumpPatchForMinorPreMajor": false,
