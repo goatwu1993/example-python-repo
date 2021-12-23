@@ -11,3 +11,6 @@ jobs:
         with:
           release-type: simple
           token: ${{ secrets.GITHUB_TOKEN }}
+          extra-files: |
+            README.md
+            ANOTHERFILE.md
