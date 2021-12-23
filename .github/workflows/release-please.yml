@@ -13,3 +13,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           extra-files:  |
             README.md
+            ANOTHERFILE.md
