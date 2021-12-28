@@ -5,7 +5,7 @@ fail_fast: false
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.0.1
+    rev: v4.1.0
     hooks:
       - id: end-of-file-fixer
       - id: fix-encoding-pragma
@@ -48,9 +48,9 @@ repos:
       - id: commitizen
         stages:
           - commit-msg
-    rev: v2.20.0
+    rev: v2.20.3
 
   - repo: https://github.com/nvuillam/npm-groovy-lint
-    rev: v9.1.0
+    rev: v9.2.0
     hooks:
       - id: format-npm-groovy-lint
