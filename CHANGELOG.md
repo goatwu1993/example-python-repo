@@ -1,5 +1,35 @@
 # Changelog
 
+## [1.1.0](https://github.com/goatwu1993/example-python-repo/compare/v1.0.0...v1.1.0) (2022-01-04)
+
+
+### Features
+
+* this is a feature request with forked action ([0eb99c2](https://github.com/goatwu1993/example-python-repo/commit/0eb99c2074886f9becfc36920542566940188d50))
+* try git hash ([efbbbcf](https://github.com/goatwu1993/example-python-repo/commit/efbbbcfd88c49c6ee35d7ce74841e92b47920442))
+* try to bump anotherfile.md ([feec481](https://github.com/goatwu1993/example-python-repo/commit/feec481a40fe489bd02d9723f2f9893b703feac4))
+* try to bump anotherfile.md ([43f1759](https://github.com/goatwu1993/example-python-repo/commit/43f1759a157e6681ac84c8d2610617da7a309128))
+* try to bump anotherfile.md ([3c2d1c3](https://github.com/goatwu1993/example-python-repo/commit/3c2d1c3ecc8f75d6b7b1919a2ec5d92cef44c915))
+* try to bump anotherfile.md ([7f9995f](https://github.com/goatwu1993/example-python-repo/commit/7f9995f0b94a79cb8f64749c5091052f0cc68ad6))
+* try to bump anotherfile.md ([9f1e325](https://github.com/goatwu1993/example-python-repo/commit/9f1e325b741e8c3ac8bbab7b91dcc2b7366d014c))
+* try to bump anotherfile.md ([5539d48](https://github.com/goatwu1993/example-python-repo/commit/5539d4865b4357b90221de90a66926f6694e8f1c))
+* try to bump anotherfile.md ([66a3b64](https://github.com/goatwu1993/example-python-repo/commit/66a3b64f8a2ccbebe164e80a494dddba86f0a1ce))
+* try to bump anotherfile.md ([2633c55](https://github.com/goatwu1993/example-python-repo/commit/2633c552566e300b19a0cf30c0f8060840d59fc0))
+* try to bump anotherfile.md ([11dc25e](https://github.com/goatwu1993/example-python-repo/commit/11dc25ebe3a66614ae3231e7f3e27c46b522e7d9))
+* try to bump anotherfile.md ([ff2fb5e](https://github.com/goatwu1993/example-python-repo/commit/ff2fb5e0ce508a1d9f71263a00428625990dfa26))
+* try to bump readme.md ([7df7253](https://github.com/goatwu1993/example-python-repo/commit/7df72534284252ff8135bde220066f704590e666))
+* try to bump README.md ([d83a1c7](https://github.com/goatwu1993/example-python-repo/commit/d83a1c720a209adc6a069782088dfdff51cc94d6))
+* try to bump README.md ([c476548](https://github.com/goatwu1993/example-python-repo/commit/c47654830e2ce9cf347c507e402adad97d932e3e))
+* update action version to latest ([210afc1](https://github.com/goatwu1993/example-python-repo/commit/210afc15fea361edc2074b82691f9cb2e7b9e194))
+
+
+### Bug Fixes
+
+* change extra-files format ([c29b6d5](https://github.com/goatwu1993/example-python-repo/commit/c29b6d5f10a08f937f9aafd3134819a0546dccc3))
+* fix action A sequence was not expected ([1d4982a](https://github.com/goatwu1993/example-python-repo/commit/1d4982a43fe799ddb728952b82320e3a92a942e0))
+* try to fix github action 'A sequence was not expected' error ([a1f8272](https://github.com/goatwu1993/example-python-repo/commit/a1f827243155e5f978159553b9c82961cff1f741))
+* update action version ([9dfcfeb](https://github.com/goatwu1993/example-python-repo/commit/9dfcfebf0b96d9f4ac572a6304c620419e236999))
+
 ## 1.0.0 (2021-12-17)
 
 
