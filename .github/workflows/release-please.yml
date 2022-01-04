@@ -7,7 +7,9 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: goatwu1993/release-please-action@7d13dccf71e9527d4b4c674f527ba6e4016dfab3
+      - uses: jcornaz/release-please@feat/extra-files
         with:
-          release-type: java
+          release-type: simple
           token: ${{ secrets.GITHUB_TOKEN }}
+          extraFiles: |
+            README.md
