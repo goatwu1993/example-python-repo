@@ -7,7 +7,7 @@ jobs:
   release-please:
     runs-on: ubuntu-latest
     steps:
-      - uses: jcornaz/release-please@f7f40d738c0b9fa728b2427ac78737055b666e80
+      - uses: jcornaz/release-please-action@f7f40d738c0b9fa728b2427ac78737055b666e80
         with:
           release-type: simple
           token: ${{ secrets.GITHUB_TOKEN }}
