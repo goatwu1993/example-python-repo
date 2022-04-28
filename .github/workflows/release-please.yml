@@ -11,5 +11,6 @@ jobs:
         with:
           release-type: simple
           token: ${{ secrets.GITHUB_TOKEN }}
+          changelog-host: https://example.com
           extra-files: |
             README.md
