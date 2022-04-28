@@ -1,4 +1,3 @@
 # Example Python Repo
 
-version: 1.0.0 <!-- x-release-please-version -->
-version: 1.0.0 <!-- x-release-please-version -->
+![version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue) <!-- x-release-please-version -->
