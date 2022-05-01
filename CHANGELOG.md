@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://override.example.com/goatwu1993/example-python-repo/compare/v1.1.0...v1.1.1) (2022-05-01)
+
+
+### Bug Fixes
+
+* this is a fix ([b6b34f0](https://override.example.com/goatwu1993/example-python-repo/commit/b6b34f078befe11b5c26905a181209489bb2cfba))
+
 ## [1.1.0](https://override.example.com/goatwu1993/example-python-repo/compare/v1.0.0...v1.1.0) (2022-04-28)
 
 
